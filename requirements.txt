@@ -1,0 +1,16 @@
+pymupdf
+pdfplumber
+langchain
+langchain-openai
+langchain-anthropic
+chromadb
+pandas
+python-dotenv
+pydantic
+sqlalchemy
+tqdm
+openai
+anthropic
+tabulate
+openpyxl
+langchain-text-splitters
